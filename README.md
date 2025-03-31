@@ -1,6 +1,6 @@
 # asmit.github.io
 
-# Data Portfolio: Excel to Power BI 
+# Data Analysis Portfolio
 
 
 
